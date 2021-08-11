@@ -23,8 +23,8 @@
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaid-Rasheed&show_icons=true&locale=en" alt="junaid-Rasheed" /></p>
 
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-Rasheed&" alt="junaid-Rasheed" /></p>
-
+<!-- <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-Rasheed&" alt="junaid-Rasheed" /></p>
+ -->
 <a href="https://github.com/Junaid-Rasheed"><img src="https://komarev.com/ghpvc/?username=Junaid-Rasheed&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid-Rasheed" /></a>
 
 <a href="https://github.com/Junaid-Rasheed"><img src="https://img.shields.io/github/followers/Junaid-Rasheed?label=Followers&style=social" alt="Junaid-Rasheed"></a>
