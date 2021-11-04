@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Junaid-Rasheed](https://github.com/Junaid-Rasheed)
 
-- 📫 How to reach me **junaidrasheed300@gmail.com**
+- 📫 How to reach me **junaidrasheed301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
