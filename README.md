@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Junaid!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center" style={{letterSpacing: "3px"}}>Hi, I'm Junaid Rasheed !</h1>
 <br>
-<h4 >Frontend developer working with JavaScript,TypeScript,HTML/CSS,ReactJs,NextJs,GatsbyJs,Headless CMS to deliver exceptional customer experiences. Adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction</h4>
+<p>Frontend developer working with JavaScript,TypeScript,HTML/CSS,ReactJs,NextJs,GatsbyJs,Headless CMS to deliver exceptional customer experiences. Adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction<p>
 
 <br>
 
