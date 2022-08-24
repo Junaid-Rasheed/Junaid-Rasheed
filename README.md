@@ -1,4 +1,4 @@
-<h2>H E Y   D E V E L O P E R S !</h2>
+<h2>H E Y  &nbsp; &nbsp;  D E V E L O P E R S !</h2>
 <br>
 <p>Frontend developer working with JavaScript,TypeScript,HTML/CSS,ReactJs,NextJs,GatsbyJs,Headless CMS to deliver exceptional customer experiences. Adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction<p>
 
