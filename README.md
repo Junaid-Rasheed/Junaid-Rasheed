@@ -23,7 +23,6 @@
 ![Graphql](https://img.shields.io/badge/Graphql-%23EE4C2C.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%2338B2AC.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/stripe-%23ED8B00.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![HeadlessCMS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=black)
 ![Contentful](https://img.shields.io/badge/Contentful-%231572B6.svg?style=for-the-badge&logo=contentful&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
