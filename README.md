@@ -2,7 +2,6 @@
 <h4 align="center">A passionate Modern Front-end Developer from Pakistan</h4>
 
 
-- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Junaid-Rasheed](https://github.com/Junaid-Rasheed)
 
