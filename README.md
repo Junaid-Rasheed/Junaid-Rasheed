@@ -1,4 +1,4 @@
-<h1 align="center" style={{letterSpacing: "3px"}}>Hi, I'm Junaid Rasheed !</h1>
+<h1 align="center" letterSpacing="3px">Hi, I'm Junaid Rasheed !</h1>
 <br>
 <p>Frontend developer working with JavaScript,TypeScript,HTML/CSS,ReactJs,NextJs,GatsbyJs,Headless CMS to deliver exceptional customer experiences. Adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction<p>
 
