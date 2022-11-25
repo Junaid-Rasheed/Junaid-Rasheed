@@ -1,6 +1,18 @@
 <h2>H E Y  &nbsp;  D E V E L O P E R S !</h2>
 <br>
-<p>Frontend developer working with JavaScript,TypeScript,HTML/CSS,ReactJs,NextJs,GatsbyJs,Headless CMS to deliver exceptional customer experiences. Adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction<p>
+<p>
+  ✅ Primary Skills
+◾ FRONTEND - ReactJS, Redux, HTML, CSS, JavaScript, TypeScript
+◾ FRAMEWORKS - NextJS, Gatsby
+◾ HEADLESS CMS - Prismic, Contentful, GraphCMS, Shopify, Strapi
+◾ DEPLOYMENT - Firebase, Netlify, Heroku, Vercel
+
+✅ Other skills
+◾ Bootstrap, Material-UI, Ant Design, Semantic UI, Tailwind CSS
+◾ Axios, GraphQL, Apollo
+◾ ESlint, Prettier
+◾ Formik, Stripe
+<p>
 
 <br>
 
