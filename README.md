@@ -1,17 +1,17 @@
 <h2>H E Y  &nbsp;  D E V E L O P E R S !</h2>
 <br>
 <p>
-  ✅ Primary Skills
-◾ FRONTEND - ReactJS, Redux, HTML, CSS, JavaScript, TypeScript
-◾ FRAMEWORKS - NextJS, Gatsby
-◾ HEADLESS CMS - Prismic, Contentful, GraphCMS, Shopify, Strapi
-◾ DEPLOYMENT - Firebase, Netlify, Heroku, Vercel
+  ✅ Primary Skills <br />
+◾ FRONTEND - ReactJS, Redux, HTML, CSS, JavaScript, TypeScript <br />
+◾ FRAMEWORKS - NextJS, Gatsby <br />
+◾ HEADLESS CMS - Prismic, Contentful, GraphCMS, Shopify, Strapi <br />
+◾ DEPLOYMENT - Firebase, Netlify, Heroku, Vercel <br /><br />
 
-✅ Other skills
-◾ Bootstrap, Material-UI, Ant Design, Semantic UI, Tailwind CSS
-◾ Axios, GraphQL, Apollo
-◾ ESlint, Prettier
-◾ Formik, Stripe
+✅ Other skills <br />
+◾ Bootstrap, Material-UI, Ant Design, Semantic UI, Tailwind CSS <br />
+◾ Axios, GraphQL, Apollo <br />
+◾ ESlint, Prettier <br />
+◾ Formik, Stripe <br />
 <p>
 
 <br>
