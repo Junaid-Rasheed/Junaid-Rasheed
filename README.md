@@ -1,7 +1,8 @@
 <h2>H E Y  &nbsp;  D E V E L O P E R S !</h2>
 <br>
 <p>
-  ✅ Primary Skills <br />
+  ✅ Core Expertise <br />
+  
 ◾ FRONTEND - Proficient in crafting stunning and responsive user interfaces using ReactJS, NextJs, HTML, CSS, JavaScript ensuring seamless user experiences.
 
 ◾ HEADLESS CMS - Experienced in working with various Headless CMS platforms such as Prismic, Contentful, GraphCMS, Shopify, and Strapi, efficiently managing content and data to deliver captivating websites.
