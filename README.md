@@ -2,7 +2,7 @@
 <br>
 <p>
   ✅ Core Expertise <br />
-  
+  <br />
 ◾ FRONTEND - Proficient in crafting stunning and responsive user interfaces using ReactJS, NextJs, HTML, CSS, JavaScript ensuring seamless user experiences.
 
 ◾ HEADLESS CMS - Experienced in working with various Headless CMS platforms such as Prismic, Contentful, GraphCMS, Shopify, and Strapi, efficiently managing content and data to deliver captivating websites.
