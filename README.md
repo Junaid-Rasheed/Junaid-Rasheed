@@ -2,16 +2,20 @@
 <br>
 <p>
   ✅ Primary Skills <br />
-◾ FRONTEND - ReactJS, Redux, HTML, CSS, JavaScript, TypeScript <br />
-◾ FRAMEWORKS - NextJS, Gatsby <br />
-◾ HEADLESS CMS - Prismic, Contentful, GraphCMS, Shopify, Strapi <br />
-◾ DEPLOYMENT - Firebase, Netlify, Heroku, Vercel <br /><br />
+◾ FRONTEND - Proficient in crafting stunning and responsive user interfaces using ReactJS, NextJs, HTML, CSS, JavaScript ensuring seamless user experiences.
 
-✅ Other skills <br />
-◾ Bootstrap, Material-UI, Ant Design, Semantic UI, Tailwind CSS <br />
-◾ Axios, GraphQL, Apollo <br />
-◾ ESlint, Prettier <br />
-◾ Formik, Stripe <br />
+◾ HEADLESS CMS - Experienced in working with various Headless CMS platforms such as Prismic, Contentful, GraphCMS, Shopify, and Strapi, efficiently managing content and data to deliver captivating websites.
+
+◾ DEPLOYMENT - Adept at deploying web applications with precision on Firebase, Netlify, Heroku, and Vercel, ensuring smooth and reliable access for users worldwide.
+
+◾ STYLING - Proficient in utilizing styling libraries like Bootstrap, Material-UI, Ant Design, Semantic UI, and Tailwind CSS to enhance the visual appeal and aesthetics of web applications.
+
+◾ DATA HANDLING - Familiar with data handling technologies such as Axios, GraphQL, and Apollo, ensuring efficient communication between the frontend and backend for seamless data retrieval.
+
+◾ CODE QUALITY - Experienced in using ESlint and Prettier to maintain clean, organized, and error-free code, promoting consistent coding practices and collaboration within development teams.
+
+◾ FORMS & PAYMENTS - Skillful in implementing Formik for seamless form handling and Stripe for secure and reliable payment processing, facilitating smooth user interactions in web applications.
+
 <p>
 
 <br>
