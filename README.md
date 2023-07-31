@@ -21,12 +21,6 @@
 
 <br>
 
-## Connect with me ^_^ 
-
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaaay_aar)
-[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/junaid-rasheed-a546501b1)
-
-<br>
 
 ## Tech Stack 🚀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +31,6 @@
 ![Graphql](https://img.shields.io/badge/Graphql-%23EE4C2C.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJs](https://img.shields.io/badge/NextJS-%234ea94b.svg?style=for-the-badge&logo=nextjs&logoColor=white)
-![GatsbyJs](https://img.shields.io/badge/Gatsby-%23563D7C.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%2338B2AC.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/stripe-%23ED8B00.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=black)
@@ -58,6 +51,3 @@
 <br>
 
 
-
-## My GitHub Stats 😎
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaid-Rasheed&theme=cobalt&show_icons=true)
