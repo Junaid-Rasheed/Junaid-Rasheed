@@ -1,135 +1,183 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Junaid%20Rasheed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20Vibe%20Coding%20Specialist%20%E2%80%A2%20ServiceNow%20Learner&descAlignY=58&descSize=16&descColor=a0a0c0" width="100%"/>
+</div>
 
-# Hey, I'm Junaid Rasheed 👋
-### Software Engineer · Frontend · ServiceNow
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-junaidrasheed.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://junaidrasheed.com)
-[![Email](https://img.shields.io/badge/Email-junaidrasheed300%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidrasheed300@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-1DA462?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-junaidrasheed.com-0f0c29?style=for-the-badge)](https://junaidrasheed.com)&nbsp;
+[![Email](https://img.shields.io/badge/📬_Email-junaidrasheed300@gmail.com-302b63?style=for-the-badge)](mailto:junaidrasheed300@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/📍_Lahore,_Pakistan-open_to_remote-24243e?style=for-the-badge)]()
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-Experienced software engineer with **4+ years** building modern web applications and enterprise ServiceNow solutions. I specialize in crafting performant, scalable frontends with React/Next.js and delivering robust IT service management workflows on the ServiceNow platform.
-
-- 🔭 Currently working as a **Software Engineer specializing in ServiceNow**
-- 🌐 Proficient in **React.js, Next.js, TypeScript** and modern frontend ecosystems
-- ⚙️ ServiceNow skilled in **ITSM, Flow Designer, Service Portal, ACLs, Business Rules**
-- 🧠 Strong background in **Headless CMS** — Strapi, Contentful, GraphCMS
-- 🚀 Passionate about clean code, seamless UX, and scalable architecture
+```ts
+const junaid = {
+  role        : "Frontend Engineer & Vibe Coding Specialist",
+  experience  : "4+ years",
+  location    : "Lahore, Pakistan 🇵🇰",
+  core        : ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+  cms         : ["Strapi", "Contentful", "GraphCMS", "Prismic"],
+  learning    : ["ServiceNow", "ITSM", "Flow Designer", "Business Rules"],
+  superpower  : "Turning ideas into pixel-perfect, production-ready UIs",
+  currentVibes: "Building fast, shipping faster ⚡",
+  openTo      : "Remote opportunities worldwide 🌍",
+};
+```
 
 ---
 
-## 🛠️ Core Expertise
+## ✨ What I Bring to the Table
 
-### Frontend Development
-Crafting responsive, accessible, and visually polished interfaces using **React.js**, **Next.js**, **TypeScript**, and **JavaScript (ES6+)**. Experienced with component libraries like MUI, Ant Design, Chakra UI, Tailwind CSS, and Bootstrap.
+<table>
+<tr>
+<td width="50%">
 
-### ServiceNow Platform
-End-to-end ServiceNow development including **UI Policies, UI Actions, Business Rules, Client Scripts, ACLs, Flow Designer, Service Catalog, ITSM, Service Portal, SLA, Update Sets, Import Sets, Data Policies, and Reporting**.
+**🎨 Frontend Craft**
 
-### Headless CMS
-Production experience with **Strapi, Contentful, GraphCMS, Prismic, and Shopify** — managing complex content relationships, media handling, and API delivery across enterprise-scale projects.
+Pixel-perfect, responsive UIs that perform as well as they look. React, Next.js, TypeScript — from landing pages to enterprise-grade web apps with 70+ pages.
 
-### State Management & Data
-Proficient in **Redux Toolkit, GraphQL, Apollo Client, Axios, and Formik** for efficient state, data fetching, and form handling across large applications.
+</td>
+<td width="50%">
 
-### Deployment & DevOps
-Hands-on deployment experience across **Vercel, Netlify, Firebase, Heroku, and Cloudinary/onrender** — including CI/CD pipelines and environment configuration.
+**🤖 Vibe Coding**
+
+Leveraging AI tools to ideate, scaffold, and ship at 10x speed — without sacrificing code quality or design intent. Prompt → prototype → production.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📦 Headless CMS**
+
+Deep experience with Strapi and Contentful — content modelling, media management, API design, and relational data at scale.
+
+</td>
+<td width="50%">
+
+**⚙️ ServiceNow *(Currently Learning)***
+
+Actively exploring the ServiceNow platform — ITSM, Business Rules, UI Policies, Service Catalog, and Flow Designer. Growing fast and loving it.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Vibe Coding — My Approach
+
+> *"Vibe coding isn't about letting AI write everything. It's about staying in flow — using AI as a co-pilot to move from idea to implementation without losing creative momentum."*
+
+I actively use AI-assisted development workflows to:
+- 🔥 Rapidly scaffold components and project structures
+- 🐛 Debug and refactor with AI pair-programming
+- 🎨 Translate Figma designs into clean, production-ready code faster
+- ⚡ Prototype and validate ideas before committing to full architecture
+
+This makes me a **force multiplier** on any team — shipping quality work at speed.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages & Frameworks**
 
-### Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### State & Data
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+**Styling & UI Libraries**
 
-### Headless CMS
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![Semantic UI](https://img.shields.io/badge/Semantic_UI-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white)
 
-### ServiceNow
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+**State Management & Data**
 
-### Deployment & Cloud
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
 
----
+**Headless CMS**
 
-## ⚙️ ServiceNow Skills
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
 
-```
-UI Policies       │  UI Actions       │  Business Rules     │  Client Scripts
-ACL               │  Data Policy      │  Import Sets        │  Update Sets
-Service Catalog   │  Flow Designer    │  ITSM               │  Service Portal
-Reporting         │  Tables & Fields  │  SLA Management
-```
+**Deployment & Cloud**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+**Currently Learning 📚**
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
 
 ---
 
-## 🏗️ Project Highlights
+## 🏗️ Selected Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Kollektum Buchregister** | Enterprise library management system — full Strapi backend, relationship management, media handling, robust APIs | Strapi, REST |
-| **Medflow** | Healthcare company website with dynamic content and SendGrid-powered contact | Next.js, Strapi, Tailwind CSS |
-| **JustAddSauce** | Food platform with dynamic CMS-driven content across diverse food categories | Next.js, Contentful, MUI |
-| **Stef&Philips** | UK property firm — full Strapi backend from base setup to advanced relational logic | Strapi, Next.js |
-| **Plexuss** | Student college discovery platform — grade-based matching with loans & scholarships | React.js |
-| **DidSheGaveBirth** | Unique pregnancy status sharing platform for expectant mothers and their social circle | React.js |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Medflow** | Healthcare company site with dynamic content, plans, services & SendGrid contact form | Next.js · Strapi · Tailwind |
+| **Kollektum Buchregister** | Enterprise library management system — full backend, relationships, media & APIs | Strapi · REST |
+| **JustAddSauce** | CMS-driven food discovery platform with dynamic content delivery | Next.js · Contentful · MUI |
+| **Stef&Philips** | UK property firm — complete Strapi backend from setup to advanced relational logic | Next.js · Strapi |
+| **Plexuss** | Student college finder with grade-based matching, loans & scholarships discovery | React.js |
+| **DidSheGaveBirth** | Pregnancy status sharing platform for expectant mothers & their social circles | React.js |
 
 ---
 
-## 🧰 Tools
+## 🔧 Tools I Use
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidrasheed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrasheed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd" height="165"/>
+</div>
 
-![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrasheed&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrasheed&layout=compact&theme=default&hide_border=true)
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=junaidrasheed&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+</div>
 
-*Open to remote opportunities in frontend development and ServiceNow engineering.*
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-junaidrasheed.com-black?style=flat-square&logo=vercel)](https://junaidrasheed.com)
+**Open to remote frontend & vibe coding roles worldwide** · Let's build something great together.
+
+[![Visit Portfolio](https://img.shields.io/badge/junaidrasheed.com-Visit_Now_→-302b63?style=for-the-badge)](https://junaidrasheed.com)
 
 </div>
